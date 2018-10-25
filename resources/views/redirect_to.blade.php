@@ -1,0 +1,1 @@
+<p>{{ route('redirect_to_route') }}</p>
